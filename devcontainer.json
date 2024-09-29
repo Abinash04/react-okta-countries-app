@@ -1,0 +1,14 @@
+{
+    "name": "c_countries-app-okta_dev",
+    "image": "i_countries-app-okta_dev",
+    "extensions": [
+      "dsznajder.es7-react-js-snippets",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+    ],
+    // "settings": {
+    //   // Add any additional settings if necessary
+    // },
+    // "postCreateCommand": "your-command" // Optional: Run commands after the container is created
+}
+  
